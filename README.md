@@ -18,7 +18,7 @@ cd Number-Guessing-Game
 play
 ```
 
-# Referência
+# Reference
 Own implementation based on the Number Guessing Game exercise from the Roadmap website.<br>
 https://roadmap.sh/projects/number-guessing-game
 
